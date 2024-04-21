@@ -1,0 +1,59 @@
+nav{
+    background-color:black;
+    color: white;
+    padding: 20px;
+    }
+    ul,li,h1{display: inline;
+    margin: 10px;
+    }
+    ul{margin-left: 70%}
+    li{color: gray;
+        cursor: pointer;
+    }
+
+    li:hover{color: white;}
+
+    input{
+        width: 55%;
+        padding: 15px;
+    }
+    .SearchBar{
+        text-align: center;
+        padding: 50px;
+    }
+
+    .box{
+        border-color: black;
+        border-width: 2px;
+        border-style: solid;
+        display: inline-block;
+        width: 220px;
+        margin: 2px;
+    }
+    .product{
+        text-align: center;
+    }
+    .box:hover{
+        background-color: black;
+        color: white;
+    }
+    
+    .About{
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .Condacts{
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .lastline{
+        background-color: antiquewhite;
+        color: green;
+        text-align: center;
+        padding: 30px;
+
+    }
